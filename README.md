@@ -13,7 +13,7 @@ Este repositorio contiene pruebas automatizadas utilizando Behave para la API de
 1. Clona este repositorio: 
 
    ```bash
-   git clone https://github.com/Mateosz12/T-evolversRetoApi.git
+   git clone https://github.com/Mateosz12/EnerbitRetoApi.git
    ```
 
 2. ejecutar todas las pruebas usa el comando:
