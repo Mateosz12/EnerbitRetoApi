@@ -1,0 +1,11 @@
+{
+    "firstname" : "jotmario",
+    "lastname" : "Sepulveda",
+    "totalprice" : 500,
+    "depositpaid" : true,
+    "bookingdates" : {
+      "checkin" : "2023-12-02",
+      "checkout" : "2023-12-03"
+    },
+    "additionalneeds" : "Breakfast"
+  }

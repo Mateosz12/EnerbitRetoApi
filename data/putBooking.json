@@ -1,0 +1,11 @@
+{
+    "firstname" : "jessi",
+    "lastname" : "villa",
+    "totalprice" : 1000,
+    "depositpaid" : false,
+    "bookingdates" : {
+      "checkin" : "2025-03-25",
+      "checkout" : "2026-11-01"
+    },
+    "additionalneeds" : "Borojo juice"
+  }
